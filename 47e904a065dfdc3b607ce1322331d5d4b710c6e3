@@ -1,0 +1,25 @@
+fe/fe-core/src/main/java/com/starrocks/connector/iceberg/rest/IcebergRESTCatalog.java
+  423bb5554a78376d 117-123
+fe/fe-core/src/main/java/org/apache/iceberg/aws/AwsProperties.java
+  423bb5554a78376d 1-546
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.12",
+  "base_commit_sha": "47e904a065dfdc3b607ce1322331d5d4b710c6e3",
+  "prompts": {
+    "423bb5554a78376d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ee8134bd-9399-4f9d-8cd2-20f4930e2c1d",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "mikezelenskyy <mykhaylo.zelenskyy@gooddata.com>",
+      "messages": [],
+      "total_additions": 553,
+      "total_deletions": 0,
+      "accepted_lines": 553,
+      "overriden_lines": 0
+    }
+  }
+}
