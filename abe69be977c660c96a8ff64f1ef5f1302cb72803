@@ -1,0 +1,38 @@
+fe/fe-core/src/main/java/com/starrocks/connector/iceberg/rest/IcebergRESTCatalog.java
+  61226c08ea260ec7 117-123
+fe/checkstyle.xml
+  8005f8fc0b8db07b 51
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.12",
+  "base_commit_sha": "abe69be977c660c96a8ff64f1ef5f1302cb72803",
+  "prompts": {
+    "61226c08ea260ec7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "09b28168-44d2-41d9-a593-5cfb889545c3",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "mikezelenskyy <mykhaylo.zelenskyy@gooddata.com>",
+      "messages": [],
+      "total_additions": 7,
+      "total_deletions": 0,
+      "accepted_lines": 7,
+      "overriden_lines": 0
+    },
+    "8005f8fc0b8db07b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "127b5dcf-94d1-4e5f-b54d-9e9ba4f50124",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": null,
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    }
+  }
+}
