@@ -1,0 +1,47 @@
+fe/fe-core/src/main/java/com/starrocks/connector/iceberg/rest/IcebergRESTCatalog.java
+  8005f8fc0b8db07b 117-121
+  61226c08ea260ec7 122
+docs/zh/data_source/catalog/iceberg/iceberg_rest_s3.md
+  8005f8fc0b8db07b 103,105,121-133,138-141
+fe/checkstyle.xml
+  8005f8fc0b8db07b 51
+docs/ja/data_source/catalog/iceberg/iceberg_rest_s3.md
+  8005f8fc0b8db07b 105-106,121-141
+fe/fe-core/src/test/java/com/starrocks/connector/iceberg/IcebergRESTCatalogTest.java
+  8005f8fc0b8db07b 32,518-541
+docs/en/data_source/catalog/iceberg/iceberg_rest_s3.md
+  8005f8fc0b8db07b 103,105,121-133,138-141
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.12",
+  "base_commit_sha": "8faf171f263b7068d330e291a8f15e0dedbfa0cd",
+  "prompts": {
+    "61226c08ea260ec7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "09b28168-44d2-41d9-a593-5cfb889545c3",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "mikezelenskyy <mykhaylo.zelenskyy@gooddata.com>",
+      "messages": [],
+      "total_additions": 7,
+      "total_deletions": 0,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    },
+    "8005f8fc0b8db07b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "127b5dcf-94d1-4e5f-b54d-9e9ba4f50124",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": null,
+      "messages": [],
+      "total_additions": 107,
+      "total_deletions": 9,
+      "accepted_lines": 107,
+      "overriden_lines": 0
+    }
+  }
+}
